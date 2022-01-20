@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+ .btn{
+   margin:5px;
+   padding:15px;
+    
+ }
+ .top{
+   border-radius: 10px;
+   padding: 5px;
+ }
+ .container{
+   border: 5px solid rgb(208, 235, 135);
+   padding: 15px;
+   width: 35%;
+   margin-top: 35px;
+   
+    
+   border-radius: 35px;
+   background-image:linear-gradient(to bottom right,white,rgb(32, 163, 180),white);
+ }
+
+  
